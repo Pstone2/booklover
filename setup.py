@@ -7,4 +7,4 @@ setup(name='booklover',
       author='pstone',
       author_email='none',
       license='MIT',
-      packages=['booklover'])
+      packages=['BookLover'])
