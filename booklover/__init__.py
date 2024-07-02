@@ -1,2 +1,2 @@
-from . booklover import booklover
+from . booklover import BookLover
 print("I love books")
